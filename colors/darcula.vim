@@ -15,12 +15,12 @@ let g:colors_name='darcula'
 
 let s:p={
       \ 'null': ['NONE', 'NONE'],
-      \ 'bg': ['#2B2B2B', 235],
+      \ 'bg': ['#000000', 235],
       \ 'fg': ['#A9B7C6', 145],
       \ 'cursor': ['#BBBBBB', 250],
       \ 'identifierUnderCaret': ['#344134', 237],
       \ 'identifierUnderCaretWrite': ['#40332B', 58],
-      \ 'gutter': ['#313335', 236],
+      \ 'gutter': ['#000000', 236],
       \ 'selection': ['#214283', 24],
       \ 'cursorLine': ['#323232', 236],
       \ 'cursorLineNr': ['#A4A3A3', 248],
